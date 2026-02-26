@@ -58,7 +58,6 @@ La base de cualquier motor gráfico reside en el álgebra lineal:
 
 
 ##  Tutorial: Iluminación de un Cubo en Blender
-Sigue estos pasos para configurar la escena básica:
 
 1.  **Agregar Luz:** Presiona `Shift + A` > *Light* > *Point* (o *Sun* para luz global).
 2.  **Mover la Fuente:** Presiona `G` y arrastra el mouse para posicionarla.
@@ -83,7 +82,7 @@ Para dibujar en una rejilla de píxeles (discretización), se utilizan algoritmo
 <img width="1372" height="750" alt="image" src="https://github.com/user-attachments/assets/36d18089-e2ff-4c03-b119-7e5787b1f611" />
 <img width="1569" height="776" alt="image" src="https://github.com/user-attachments/assets/2f00e7f2-a252-48cf-8c80-f7a542a43560" />
 
----
+
 
 ## 1.6. Procesamiento de Mapas de Bits (Bitmaps)
 
