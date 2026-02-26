@@ -84,7 +84,7 @@ Para dibujar en una rejilla de píxeles (discretización), se utilizan algoritmo
 
 
 
-## 1.6. Procesamiento de Mapas de Bits (Bitmaps)
+## 1.6. Procesamiento de Mapas de Bits 
 
 Un **mapa de bits** (o imagen rasterizada) es una estructura de datos que representa una rejilla rectangular de píxeles (puntos de color), que se pueden visualizar en un monitor, papel u otro dispositivo de exhibición.
 
