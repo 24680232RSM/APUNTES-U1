@@ -2,7 +2,7 @@
 
 
 
----
+
 
 ##  Índice
 1. [Historia y Evolución](#11-historia-y-evolución)
@@ -12,7 +12,7 @@
 5. [Tutorial: Iluminación en Blender](#-tutorial-iluminación-de-un-cubo-en-blender)
 6. [Trazo de Líneas y Polígonos](#15-representación-y-trazo-de-líneas-y-polígonos)
 
----
+
 
 ## 1.1. Historia y Evolución
 La graficación ha evolucionado de representaciones militares abstractas a simulaciones fotorrealistas:
@@ -23,7 +23,7 @@ La graficación ha evolucionado de representaciones militares abstractas a simul
 * **Años 80/90:** Explosión del 3D en el cine (Pixar) y nacimiento de las primeras GPUs (Nvidia).
 * **Actualidad:** Foco en el *Ray Tracing* en tiempo real e Inteligencia Artificial para la reconstrucción de imágenes.
 
----
+
 
 ## 1.2. Áreas de Aplicación
 La computación gráfica es transversal a múltiples industrias:
@@ -32,7 +32,7 @@ La computación gráfica es transversal a múltiples industrias:
 * **Ingeniería (CAD):** Diseño de prototipos industriales y arquitectura.
 * **Ciencia:** Visualización de grandes volúmenes de datos (Big Data).
 
----
+
 
 ## 1.3. Aspectos Matemáticos
 La base de cualquier motor gráfico reside en el álgebra lineal:
@@ -41,7 +41,7 @@ La base de cualquier motor gráfico reside en el álgebra lineal:
 * **Coordenadas Homogéneas:** Permiten unificar todas las transformaciones en una sola operación matricial de $4 \times 4$.
 * **Proyecciones:** Transformación de un espacio 3D a un plano 2D (Perspectiva vs. Ortopedical).
 
----
+
 
 ## 1.4. Modelos de Color
 
@@ -55,7 +55,7 @@ La base de cualquier motor gráfico reside en el álgebra lineal:
 | **CMYK** | Sustractivo | Impresión y artes gráficas. |
 | **HSV / HSL** | Perceptual | Selección de color y edición fotográfica. |
 
----
+
 
 ##  Tutorial: Iluminación de un Cubo en Blender
 Sigue estos pasos para configurar la escena básica:
@@ -68,7 +68,7 @@ Sigue estos pasos para configurar la escena básica:
 4.  **Renderizado en Tiempo Real:** * Presiona la tecla `Z` y selecciona la opción **Rendered**.
 5.  **Sombras:** Asegúrate de que la casilla `Shadows` esté activada en las propiedades de la luz para generar profundidad en las caras del cubo.
 
----
+
 
 ## 1.5. Representación y Trazo de Líneas y Polígonos
 
