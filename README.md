@@ -1,6 +1,6 @@
 # Fundamentos de Graficación por Computadora 
 
-Este repositorio contiene un resumen ejecutivo sobre los pilares de la computación gráfica, desde su evolución histórica hasta la implementación técnica de algoritmos de trazado y modelos de color.
+
 
 ---
 
