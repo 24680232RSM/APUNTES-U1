@@ -109,9 +109,10 @@ El procesamiento de estas imágenes se divide en varias técnicas esenciales:
 * **Sin pérdida (Lossless):** PNG, BMP, TIFF (conservan toda la información original).
 * **Con pérdida (Lossy):** JPEG (comprime la imagen eliminando datos poco perceptibles para reducir el peso del archivo).
 
-
-
-
+### Bibliografia
+Introducción a la graficación por computadora. (s. f.). https://proyectodescartes.org/iCartesiLibri/materiales_didacticos/GraficacionComputadora/index.html
+Heriberto, J. (s. f.). Unidad 1. https://graficacionheribertojesus.blogspot.com/p/61-instalar-evaluar-los-principales.html
+Unknown. (s. f.-b). UNIDAD 1 - Introduccion a la graficacion por computadora. https://temasgraficacionitcved.blogspot.com/2012/12/unidad-1-introduccion-la-graficacion.html
 
 
 
