@@ -111,7 +111,9 @@ El procesamiento de estas imágenes se divide en varias técnicas esenciales:
 
 ### Bibliografia
 **Introducción a la graficación por computadora. (s. f.). https://proyectodescartes.org/iCartesiLibri/materiales_didacticos/GraficacionComputadora/index.html
+
 **Heriberto, J. (s. f.). Unidad 1. https://graficacionheribertojesus.blogspot.com/p/61-instalar-evaluar-los-principales.html
+
 **Unknown. (s. f.-b). UNIDAD 1 - Introduccion a la graficacion por computadora. https://temasgraficacionitcved.blogspot.com/2012/12/unidad-1-introduccion-la-graficacion.html
 
 
