@@ -1,10 +1,10 @@
-# Fundamentos de Graficación por Computadora 🖥️🎨
+# Fundamentos de Graficación por Computadora 
 
 Este repositorio contiene un resumen ejecutivo sobre los pilares de la computación gráfica, desde su evolución histórica hasta la implementación técnica de algoritmos de trazado y modelos de color.
 
 ---
 
-## 📋 Índice
+##  Índice
 1. [Historia y Evolución](#11-historia-y-evolución)
 2. [Áreas de Aplicación](#12-áreas-de-aplicación)
 3. [Aspectos Matemáticos](#13-aspectos-matemáticos)
@@ -57,7 +57,7 @@ La base de cualquier motor gráfico reside en el álgebra lineal:
 
 ---
 
-## 💡 Tutorial: Iluminación de un Cubo en Blender
+##  Tutorial: Iluminación de un Cubo en Blender
 Sigue estos pasos para configurar la escena básica:
 
 1.  **Agregar Luz:** Presiona `Shift + A` > *Light* > *Point* (o *Sun* para luz global).
