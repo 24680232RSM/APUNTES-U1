@@ -83,6 +83,35 @@ Para dibujar en una rejilla de píxeles (discretización), se utilizan algoritmo
 <img width="1372" height="750" alt="image" src="https://github.com/user-attachments/assets/36d18089-e2ff-4c03-b119-7e5787b1f611" />
 <img width="1569" height="776" alt="image" src="https://github.com/user-attachments/assets/2f00e7f2-a252-48cf-8c80-f7a542a43560" />
 
+---
+
+## 1.6. Procesamiento de Mapas de Bits (Bitmaps)
+
+Un **mapa de bits** (o imagen rasterizada) es una estructura de datos que representa una rejilla rectangular de píxeles (puntos de color), que se pueden visualizar en un monitor, papel u otro dispositivo de exhibición.
+
+### Conceptos Clave
+* **Píxel:** La unidad mínima de color en una imagen digital.
+* **Resolución:** El número total de píxeles (Ancho x Alto). A mayor resolución, mayor detalle.
+* **Profundidad de Color:** La cantidad de bits utilizados para indicar el color de un solo píxel (ej. 8 bits para escala de grises, 24 bits para True Color).
+
+
+
+### Operaciones de Procesamiento
+El procesamiento de estas imágenes se divide en varias técnicas esenciales:
+
+1.  **Transformaciones de Punto:** Operaciones que afectan a cada píxel de forma individual (brillo, contraste e inversión de colores).
+2.  **Filtrado Espacial (Convolución):** Uso de una "matriz de kernel" para modificar un píxel basándose en sus vecinos.
+    * **Blur (Desfoque):** Suaviza la imagen eliminando ruido.
+    * **Sharpen (Enfoque):** Resalta los bordes y detalles.
+    * **Detección de Bordes (Sobel/Canny):** Identifica cambios bruscos de intensidad.
+3.  **Histogramas:** Representación gráfica de la distribución de los tonos de la imagen, útil para la ecualización y mejora del contraste.
+
+### Formatos Comunes
+* **Sin pérdida (Lossless):** PNG, BMP, TIFF (conservan toda la información original).
+* **Con pérdida (Lossy):** JPEG (comprime la imagen eliminando datos poco perceptibles para reducir el peso del archivo).
+
+
+
 
 
 
