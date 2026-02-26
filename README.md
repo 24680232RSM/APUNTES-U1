@@ -79,6 +79,11 @@ Para dibujar en una rejilla de píxeles (discretización), se utilizan algoritmo
 * **Algoritmo de Bresenham:** Utiliza únicamente aritmética de enteros, lo que lo hace extremadamente eficiente para hardware.
 * **Relleno de Polígonos:** Algoritmos como *Scan-line* determinan qué píxeles están "dentro" basándose en las intersecciones con los bordes.
 
-* <img width="607" height="479" alt="image" src="https://github.com/user-attachments/assets/d3356b55-a7e6-4546-add3-46d824fecc44" />
+<img width="1570" height="788" alt="image" src="https://github.com/user-attachments/assets/789ff8b8-4b91-4edd-873d-be9e8855b822" />
+<img width="1372" height="750" alt="image" src="https://github.com/user-attachments/assets/36d18089-e2ff-4c03-b119-7e5787b1f611" />
+<img width="1569" height="776" alt="image" src="https://github.com/user-attachments/assets/2f00e7f2-a252-48cf-8c80-f7a542a43560" />
+
+
+
 
 
